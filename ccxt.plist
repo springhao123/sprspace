@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+
+<dict>
+
+        <key>items</key>
+
+        <array>
+
+                <dict>
+
+                        <key>assets</key>
+
+                        <array>
+
+                                <dict>
+
+                                        <key>kind</key>
+
+                                        <string>software-package</string>
+
+                                        <key>url</key>
+
+                                        <string>http://10.12.16.240:18080/ProjectJ/ProjectJ_IOS_CN/ProjectJ.ipa</string>
+
+                                </dict>
+
+                                <dict>
+
+                                        <key>kind</key>
+
+                                        <string>display-image</string>
+
+                                        <key>needs-shine</key>
+
+                                        <true/>
+
+                                        <key>url</key>
+
+                                        <string>http://115.159.109.53:10086/download/Icon.png</string>
+
+                                </dict>
+
+                                <dict>
+
+                                        <key>kind</key>
+
+                                        <string>full-size-image</string>
+
+                                        <key>needs-shine</key>
+
+                                        <true/>
+
+                                        <key>url</key>
+
+                                        <string>http://115.159.109.53:10086/download/Icon.png</string>
+
+                                </dict>
+
+                        </array>
+
+                        <key>metadata</key>
+
+                        <dict>
+
+                                <key>bundle-identifier</key>
+
+                                <string>com.by.taoyuan.inhouse</string>
+
+                                <key>bundle-version</key>
+
+                                <string>0.0.1</string>
+
+                                <key>kind</key>
+
+                                <string>software</string>
+
+                                <key>title</key>
+
+                                <string>ProjectJ</string>
+
+                        </dict>
+
+                </dict>
+
+        </array>
+
+</dict>
+
+</plist>
