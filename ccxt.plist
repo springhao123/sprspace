@@ -40,7 +40,7 @@
 
                                         <key>url</key>
 
-                                        <string>http://115.159.109.53:10086/download/Icon.png</string>
+                                        <string>http://10.12.16.36:8080/ccxt_packetUp/APP_Icon_1024.png</string>
 
                                 </dict>
 
@@ -56,7 +56,7 @@
 
                                         <key>url</key>
 
-                                        <string>http://115.159.109.53:10086/download/Icon.png</string>
+                                        <string>http://10.12.16.36:8080/ccxt_packetUp/APP_Icon_1024.png</string>
 
                                 </dict>
 
